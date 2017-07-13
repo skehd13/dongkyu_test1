@@ -8,7 +8,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * Created by test on 2017. 7. 12..
+ * Created by Dongkyu on 2017. 7. 12..
  */
 
 public class App extends Application {

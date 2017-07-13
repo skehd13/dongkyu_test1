@@ -10,7 +10,7 @@ import android.support.annotation.Nullable;
 import android.util.Log;
 
 /**
- * Created by test on 2017. 7. 12..
+ * Created by Dongkyu on 2017. 7. 12..
  */
 
 public class DongkService extends Service {
